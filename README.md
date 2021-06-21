@@ -1,2 +1,2 @@
-Hello U. 
+Hello. 
 ![illustration](annie-spratt-e7ciME0PXKE-unsplash.jpg)
