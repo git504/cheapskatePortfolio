@@ -6,9 +6,9 @@
 
     38 Y.old french react front-end beginner ;
 
-    100% committed to the OPENCLASSROOMS's learning process 🌱 ...in career transition
+    100% committed to the OPENCLASSROOMS's learning process  🌱 ...in career transition
 
-    Deliverable by December 2022
+    🎓 Deliverable by December 2022
     --> Lookin'for 1 contrat de professionnalisation
 
 
@@ -20,7 +20,7 @@
 
 
 
-## Certifications 🎓
+## Certifications
 
 - **openclassrooms**: JavaScript React Developer 💻...**_in progess_**
 - **openclassrooms**: Web Developer 💻...**_in progess_**
