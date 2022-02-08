@@ -1,6 +1,6 @@
 # cheapskatePortfolio
 
-![ID](Picture/FOTO003.png)
+![ID](./FOTO003.png)
 [Contact](mailto:pop3@mailo.com)
 
 ### Hi there 👋
