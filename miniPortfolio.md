@@ -2,25 +2,20 @@
 
 ![ID](Picture/FOTO003.png)
 [Contact](mailto:fcc1b73b1c3@mailo.com)
+
 ### Hi there 👋
 
     38 Y/o french react front-end beginner ;
 
     100% committed to the OPENCLASSROOMS's learning process  🌱 ...in career transition
 
-    🎓 Deliverable by December 2022
+    🚚 Deliverable by December 2022
     --> Lookin'for 1 contrat de professionnalisation
 
 
     PHILOSOPHY
 
-
-
-
-
-
-
-## Certifications
+## Certifications 🎓
 
 - **openclassrooms**: JavaScript React Developer 💻...**_in progess_**
 - **openclassrooms**: Web Developer 💻...**_in progess_**
@@ -41,12 +36,9 @@
 
 ---
 
+💬 please contact me that way
 
-
-
-  💬 contact me that way
-
-    fcc1b73b1c3@mailo.com
+    pop3@mailo.com
 
     Thank you for being my reader
     made with love in full stack Markdown
