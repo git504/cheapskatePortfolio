@@ -1,5 +1,9 @@
 # Portfolio
 
+![ID](Picture/FOTO003.png)
+
+    French front-end in professional transition
+
 front en beginner, looking for his first opportunity
 
 ## Certifications
@@ -15,7 +19,11 @@ front en beginner, looking for his first opportunity
 - 🧘 **Yoga**: hatha & yin
 - ⛰️ **Hiking**: gr20 Corsica / Traveling / Europe
 
----
-[contact](https://github.com/git504)
+## Driver's license
 
-    Thankie
+- 🚗 **car**
+- 🛵 =< **125c3**
+
+---
+
+[contact](https://github.com/git504)
