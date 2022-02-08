@@ -1,6 +1,5 @@
 # cheapskatePortfolio
 
-
 ![ID](Picture/FOTO003.png)
 [Contact](mailto:fcc1b73b1c3@mailo.com)
 
@@ -15,7 +14,7 @@
 - **openclassrooms**: Web Developer 💻...**_in progess_**
 - **freeCodeCamp**: JavaScript Algorithms and Data Structures 💻...**_in progess_**
 - [**freeCodeCamp** : ](https://www.freecodecamp.org/certification/git504/responsive-web-design)Responsive Web Design
-- [**Google Digital Garage** : ]() Fundamentals of Digital Marketing
+- [**Google Digital Garage** : ](https://github.com/git504/git504/blob/main/Developer%20Certification/Google%20garage%20Marketing.pdf) Fundamentals of Digital Marketing
 
 ## Career path
 
@@ -29,6 +28,6 @@
 - 🛵 =< **125cc** / driver's licence 🚗
 
 ---
+
     Thank you for being my reader
     made with love in full stack Markdown
-
