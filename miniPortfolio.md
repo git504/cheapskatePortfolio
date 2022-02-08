@@ -3,8 +3,9 @@
 ![ID](Picture/FOTO003.png)
 
     French front-end in professional transition
+    Deliverable by December 2022
 
-front en beginner, looking for his first opportunity
+    --> Lookin'for 1 contrat de professionnalisation technicien informatique de 18 mois @OPENCLASSROOMS
 
 ## Certifications
 
@@ -18,12 +19,12 @@ front en beginner, looking for his first opportunity
 
 - 🧘 **Yoga**: hatha & yin
 - ⛰️ **Hiking**: gr20 Corsica / Traveling / Europe
+- 🚗 **car** / 🛵 =< **125c3**
 
-## Driver's license
+## Career path
 
-- 🚗 **car**
-- 🛵 =< **125c3**
+- analog photographer
 
----
+## Thank you for being my reader
 
 [contact](https://github.com/git504)
