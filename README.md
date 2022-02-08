@@ -1,4 +1,3 @@
+ <!-- ### [cheapskatePortfolio](https://github.com/git504/git504/blob/main/miniPortfolio.md) -->
 
- ### [cheapskatePortfolio](https://github.com/git504/git504/blob/main/miniPortfolio.md)
-
-![ID](Picture/FOTO003.png)
+<!-- ![ID](Picture/FOTO003.png) -->
