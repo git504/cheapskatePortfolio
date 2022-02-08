@@ -3,10 +3,15 @@
 ![ID](Picture/FOTO003.png)
 [Contact](mailto:fcc1b73b1c3@mailo.com)
 
-    French react front-end beginner ;
-    Deliverable by December 2022
+    38 Y.old french react front-end beginner ;
 
-    --> Lookin'for 1 contrat de professionnalisation technicien informatique de 18 mois @OPENCLASSROOMS
+    100% committed to the OPENCLASSROOMS's learning process ...in career transition 🎓
+
+    Deliverable by December 2022
+    --> Lookin'for 1 contrat de professionnalisation
+
+
+    PHILOSOPHY
 
 ## Certifications
 
