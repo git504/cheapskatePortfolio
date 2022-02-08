@@ -3,9 +3,10 @@
 ![ID](Picture/FOTO003.png)
 [Contact](mailto:fcc1b73b1c3@mailo.com)
 
+
     38 Y.old french react front-end beginner ;
 
-    100% committed to the OPENCLASSROOMS's learning process ...in career transition 🎓
+    100% committed to the OPENCLASSROOMS's learning process ...in career transition 
 
     Deliverable by December 2022
     --> Lookin'for 1 contrat de professionnalisation
@@ -13,7 +14,13 @@
 
     PHILOSOPHY
 
-## Certifications
+
+
+
+
+
+
+## Certifications 🎓
 
 - **openclassrooms**: JavaScript React Developer 💻...**_in progess_**
 - **openclassrooms**: Web Developer 💻...**_in progess_**
@@ -24,7 +31,7 @@
 ## Career path
 
 - Analogue photographer & printMaker
-- ... now in professional transition. Ongoing Digitalization.
+- now in professional transition ...Ongoing Digitalization
 
 ## Hobbies
 
@@ -33,6 +40,13 @@
 - 🛵 =< **125cc** / driver's licence 🚗
 
 ---
+
+
+
+
+  contact me that way
+
+    fcc1b73b1c3@mailo.com
 
     Thank you for being my reader
     made with love in full stack Markdown
