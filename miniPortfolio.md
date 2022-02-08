@@ -2,11 +2,11 @@
 
 ![ID](Picture/FOTO003.png)
 [Contact](mailto:fcc1b73b1c3@mailo.com)
-
+### Hi there 👋
 
     38 Y.old french react front-end beginner ;
 
-    100% committed to the OPENCLASSROOMS's learning process ...in career transition 
+    100% committed to the OPENCLASSROOMS's learning process 🌱 ...in career transition
 
     Deliverable by December 2022
     --> Lookin'for 1 contrat de professionnalisation
@@ -44,7 +44,7 @@
 
 
 
-  contact me that way
+  💬 contact me that way
 
     fcc1b73b1c3@mailo.com
 
