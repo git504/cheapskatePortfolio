@@ -1,6 +1,6 @@
-# Portfolio
+# miniPortfolio
 
-![ID](Picture/miniFOTO.png)
+![ID](Picture/FOTO003.png)
 
     French front-end in professional transition
 
