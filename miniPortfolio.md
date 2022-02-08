@@ -2,8 +2,7 @@
 
 ![ID](Picture/FOTO003.png)
 
-    French front-end in professional transition
-    Deliverable by December 2022
+    French react front-end beginner in professional transition ; Deliverable by December 2022
 
     --> Lookin'for 1 contrat de professionnalisation technicien informatique de 18 mois @OPENCLASSROOMS
 
