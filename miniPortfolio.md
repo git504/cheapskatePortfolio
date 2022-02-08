@@ -4,7 +4,7 @@
 [Contact](mailto:fcc1b73b1c3@mailo.com)
 ### Hi there 👋
 
-    38 Y.old french react front-end beginner ;
+    38 Y/o french react front-end beginner ;
 
     100% committed to the OPENCLASSROOMS's learning process  🌱 ...in career transition
 
