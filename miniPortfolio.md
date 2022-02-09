@@ -18,7 +18,8 @@
     Always dedicate time to improving my skill set.
 
 I am applying for a first junior-mid level programming opportunity.
-**_Feeling at ease with the markdown and paper stacks_**, ;-)
+Feeling at ease with the markdown and paper stacks\*,
+**_Ref. to my my career path as a printMaker_** ;-)
 gave me the interest to acquire a deep knowledge of JavaScript.
 The projects **pinned** in my repository are an important part
 of my learning process and show my understanding of JavaScript.
