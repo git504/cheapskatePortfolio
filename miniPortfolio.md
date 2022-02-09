@@ -18,7 +18,7 @@
 
 I am applying for a first junior-mid level programming opportunity.
 
-Feeling at ease with the markdown and paper stacks\*, gave me the interest to acquire a deep knowledge of JavaScript.
+Feeling at ease with the markdown and paper stacks\*, gave me the interest to acquire a profund knowledge of JavaScript.
 
 The projects **pinned** in my repository are an important part of my learning process and show my understanding of JavaScript.
 
