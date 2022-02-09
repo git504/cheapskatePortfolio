@@ -1,7 +1,7 @@
 # cheapskatePortfolio
 
 ![ID](./Picture/FOTO003.png "Titre, pixelArt")
-[Contact](mailto:pop3@mailo.com) 💬 me that way
+[Contact](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬
 
 ### Hi there 👋
 
