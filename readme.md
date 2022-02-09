@@ -1,7 +1,7 @@
 # cheapskatePortfolio
 
 ![ID](./Picture/FOTO003.png "Portrait, pixelArt")
-[Contact](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬 [pop3@mailo.com]
+[Contact](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬
 
 ### Hi there 👋
 
@@ -47,3 +47,4 @@ of my learning process and show my understanding of JavaScript.
 
     Thank you for being my reader
     made with love in full stack Markdown
+    [pop3@mailo.com]
