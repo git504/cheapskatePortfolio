@@ -18,11 +18,14 @@
     Always dedicate time to improving my skill set.
 
 I am applying for a first junior-mid level programming opportunity.
-Feeling at ease with the markdown and paper stacks\*,
-**_Ref. to my career path as a printMaker_** ;-)
-gave me the interest to acquire a deep knowledge of JavaScript.
-The projects **pinned** in my repository are an important part
-of my learning process and show my understanding of JavaScript.
+
+Feeling at ease with the markdown and paper stacks\*, gave me the interest to acquire a deep knowledge of JavaScript.
+
+The projects **pinned** in my repository are an important part of my learning process and show my understanding of JavaScript.
+
+```diff
+@@  * Ref. to my career path as a printMaker 📋 @@
+```
 
 ## Certifications 🎓
 
@@ -49,4 +52,4 @@ of my learning process and show my understanding of JavaScript.
     made with love in full stack Markdown
     [pop3@mailo.com]
 
-![ID](./Picture/qrcode_git504.github.io.png "QR, portfolio")
+![ID](./Picture/qrcode_git504.github.iominiFOTO.png "QR, portfolio")
