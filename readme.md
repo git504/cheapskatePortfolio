@@ -1,7 +1,7 @@
 # cheapskatePortfolio
 
-![ID](./Picture/FOTO003.png)
-[Contact](mailto:pop3@mailo.com)
+![ID](./Picture/FOTO003.png "Titre, pixelArt")
+[Contact](mailto:pop3@mailo.com) 💬 me that way
 
 ### Hi there 👋
 
@@ -17,11 +17,11 @@
 
 ## Certifications 🎓
 
-- **openclassrooms**: JavaScript React Developer 💻...**_in progess_**
-- **openclassrooms**: Web Developer 💻...**_in progess_**
-- **freeCodeCamp**: JavaScript Algorithms and Data Structures 💻...**_in progess_**
-- [**freeCodeCamp** : ](https://www.freecodecamp.org/certification/git504/responsive-web-design)Responsive Web Design
-- [**Google Digital Garage** : ](https://github.com/git504/git504/blob/main/Developer%20Certification/Google%20garage%20Marketing.pdf) Fundamentals of Digital Marketing
+- [ ] **openclassrooms**: JavaScript React Developer 👨‍💻...**_in progess_**
+- [ ] **openclassrooms**: Web Developer 👨‍💻...**_in progess_**
+- [ ] **freeCodeCamp**: JavaScript Algorithms and Data Structures 👨‍💻...**_in progess_**
+- [x] [**freeCodeCamp** : ](https://www.freecodecamp.org/certification/git504/responsive-web-design)Responsive Web Design
+- [x] [**Google Digital Garage** : ](https://github.com/git504/git504/blob/main/Developer%20Certification/Google%20garage%20Marketing.pdf) Fundamentals of Digital Marketing
 
 ## Career path
 
@@ -35,10 +35,6 @@
 - 🛵 =< **125cc** / driver's licence 🚗
 
 ---
-
-💬 please contact me that way
-
-    pop3@mailo.com
 
     Thank you for being my reader
     made with love in full stack Markdown
