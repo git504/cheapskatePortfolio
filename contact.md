@@ -3,8 +3,8 @@
     pop3@mailo.com
 
 
-`
------BEGIN PGP PUBLIC KEY BLOCK-----
+        -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 Version: GnuPG v1.4.12 (GNU/Linux)
 
 mQINBGIDaq4BEADDfoID4IUlWlPtq8z0O8RFMuhaOovP69QJ2/fAsgC4AuyDmjKy
@@ -33,4 +33,3 @@ hQpFq/TqkwSSQnx3MTmID7EC6BVPgJBUC0X5FQci/ReWHBHoJyGohEmcVeaKDGT/
 jBy6UfpECkz8SmV9cCYMMFavvs6M5TYsELwhNkpdFp3s1oRI6sV4iFGaQx0YyMQ=
 =efyv
 -----END PGP PUBLIC KEY BLOCK-----
-`
