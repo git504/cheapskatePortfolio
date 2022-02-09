@@ -45,7 +45,7 @@ of my learning process and show my understanding of JavaScript.
 
 
 
-<span style="color:red"> *some emphasized markdown text*</span>
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 
 ---
 
