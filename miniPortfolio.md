@@ -1,13 +1,14 @@
 # cheapskatePortfolio
 
-![ID](./Picture/FOTO003.png "Titre, pixelArt")
+![ID](./Picture/FOTO003.png "Title, pixelArt portrait")
 [Contact](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬
 
 ### Hi there 👋
 
     38 Y/o french react front-end beginner ;
 
-    100% committed to the OPENCLASSROOMS's learning process  🌱 ...in career transition
+    100% committed to the OPENCLASSROOMS's learning process
+    🌱 ...in career transition
 
     🚚 Deliverable by December 2022
     --> Lookin'for 1 contrat de professionnalisation
@@ -25,14 +26,14 @@
 
 ## Career path
 
-- Analogue photographer & printMaker
-- now in professional transition ...Ongoing Digitalization
+- Analogue photographer & **printMaker**
+- now in professional transition **_...Ongoing Digitalization_**
 
 ## Hobbies
 
 - 🧘 **Yoga**: hatha & yin
 - ⛰️ **Hiking**: gr20 Corsica / Traveling / Europe
-- 🛵 =< **125cc** / driver's licence 🚗
+- 🛵 **125cc** / driver's licence 🚗
 
 ---
 
