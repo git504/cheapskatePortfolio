@@ -13,8 +13,9 @@
     🚚 Deliverable by December 2022
     --> Lookin'for 1 contrat de professionnalisation
 
-
-    PHILOSOPHY
+    ```diff
+    @@ PHILOSOPHY @@
+    ```
     Always dedicate time to improving my skill set.
 
 I am applying for a first junior-mid level programming opportunity.
@@ -43,6 +44,7 @@ of my learning process and show my understanding of JavaScript.
 - ⛰️ **Hiking**: gr20 Corsica / Traveling / Europe
 - 🛵 **125cc** / driver's licence 🚗
 
+---
 
 ```diff
 - text in red
@@ -51,8 +53,6 @@ of my learning process and show my understanding of JavaScript.
 # text in gray
 @@ text in purple (and bold)@@
 ```
-
----
 
     Thank you for being my reader
     made with love in full stack Markdown
