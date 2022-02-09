@@ -1,7 +1,7 @@
 # cheapskatePortfolio
 
 ![ID](./Picture/FOTO003.png "Portrait, pixelArt")
-[Contact](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬
+[Contact](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬 [pop3@mailo.com]
 
 ### Hi there 👋
 
@@ -15,6 +15,13 @@
 
 
     PHILOSOPHY
+    Always dedicate time to improving my skill set.
+
+I am applying for a first junior-mid level programming opportunity.
+**_Feeling at ease with the markdown and paper stacks_**, ;-)
+gave me the interest to acquire a deep knowledge of JavaScript.
+The projects **pinned** in my repository are an important part
+of my learning process and show my understanding of JavaScript.
 
 ## Certifications 🎓
 
