@@ -1,6 +1,6 @@
 # cheapskatePortfolio
 
-![ID](./Picture/FOTO003.png "Title, pixelArt portrait")
+![ID](./Picture/FOTO003.png "Portrait, pixelArt")
 [Contact](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬
 
 ### Hi there 👋
