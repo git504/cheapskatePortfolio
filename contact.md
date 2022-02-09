@@ -4,8 +4,9 @@
 
 ---
 
-🔑 Here is my **pgp key**. Copy and save it for future references.
-
+```diff
+@@ 🔑 Here is my **pgp key**. Copy and save it for future references. @@
+```
         -----BEGIN PGP PUBLIC KEY BLOCK-----
         Version: GnuPG v1.4.12 (GNU/Linux)
         mQINBGIDaq4BEADDfoID4IUlWlPtq8z0O8RFMuhaOovP69QJ2/fAsgC4AuyDmjKy

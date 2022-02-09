@@ -51,6 +51,7 @@ of my learning process and show my understanding of JavaScript.
 # text in gray
 @@ text in purple (and bold)@@
 ```
+
 ---
 
     Thank you for being my reader
