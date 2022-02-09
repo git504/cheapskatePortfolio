@@ -43,6 +43,10 @@ of my learning process and show my understanding of JavaScript.
 - ⛰️ **Hiking**: gr20 Corsica / Traveling / Europe
 - 🛵 **125cc** / driver's licence 🚗
 
+
+
+<span style="color:red"> *some emphasized markdown text*</span>
+
 ---
 
     Thank you for being my reader
