@@ -44,9 +44,13 @@ of my learning process and show my understanding of JavaScript.
 - 🛵 **125cc** / driver's licence 🚗
 
 
-
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 ---
 
     Thank you for being my reader
