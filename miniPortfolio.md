@@ -47,3 +47,5 @@ of my learning process and show my understanding of JavaScript.
 
     Thank you for being my reader
     made with love in full stack Markdown
+
+![ID](./Picture/qrcode_git504.github.io.png "QR, portfolio")
