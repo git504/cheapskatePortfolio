@@ -21,7 +21,7 @@ I am applying for a first junior-mid level programming opportunity.
 
 Feeling at ease with the markdown and paper stacks\* _Ref. to my career path as a printMaker 📋_, gave me the interest to acquire a profund knowledge of JavaScript.
 
-The projects **pinned** in my repository are an important part of my learning process and show my understanding of JavaScript.
+The projects **pinned** in my repo are an important part of my learning process and show my understanding of JavaScript.
 
 ## Certifications 🎓
 
