@@ -27,20 +27,20 @@ The projects **pinned** in my repository are an important part of my learning pr
 
 - [ ] **openclassrooms**: JavaScript React Developer 👨‍💻...**_in progess_**
 - [ ] **openclassrooms**: Web Developer 👨‍💻...**_in progess_**
-- [ ] **freeCodeCamp**: JavaScript Algorithms and Data Structures 👨‍💻...**_in progess_**
-- [x] [**freeCodeCamp** : ](https://www.freecodecamp.org/certification/git504/responsive-web-design)Responsive Web Design
+- [x] [**freeCodeCamp** : ](https://www.freecodecamp.org/certification/git504/javascript-algorithms-and-data-structures) JavaScript Algorithms and Data Structures
+- [x] [**freeCodeCamp** : ](https://www.freecodecamp.org/certification/git504/responsive-web-design) Responsive Web Design
 - [x] [**Google Digital Garage** : ](https://github.com/git504/git504/blob/main/Developer%20Certification/Google%20garage%20Marketing.pdf) Fundamentals of Digital Marketing
 
 ## Career path
 
-- Analogue photographer & **printMaker**
+- Analogue **photographer** & **printMaker**
 - now in professional transition **_...Ongoing Digitalization_**
 
 ## Hobbies
 
-- 🧘 **Yoga**: hatha & yin
-- ⛰️ **Hiking**: gr20 Corsica / Traveling / Europe
-- 🛵 **125cc** / driver's licence 🚗
+- 🧘 **Yoga**
+- ⛰️ Hiking / Traveling / Europe
+- 🛵 **125cc** and driver's licence
 
 ---
 
