@@ -1,8 +1,8 @@
-Please 📧 contact me that way
+Here is my 📧 **MAIL**
 
     pop3@mailo.com
 
-Here is my  🔑  **pgp key**
+Here is my 🔑  **PGP PUBLIC KEY**
 
         -----BEGIN PGP PUBLIC KEY BLOCK-----
         Version: GnuPG v1.4.12 (GNU/Linux)
