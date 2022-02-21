@@ -1,15 +1,8 @@
-📧 [Please contact me that way](mailto:pop3@mailo.com)
+Please 📧 contact me that way
 
     pop3@mailo.com
 
----
-
 Here is my  🔑  **pgp key**
-
- *Copy and save it for future references*
-
----
-
 
         -----BEGIN PGP PUBLIC KEY BLOCK-----
         Version: GnuPG v1.4.12 (GNU/Linux)
