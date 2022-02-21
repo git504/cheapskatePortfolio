@@ -1,4 +1,4 @@
-📧 [Contact](mailto:pop3@mailo.com)
+📧 [Please contact me that way](mailto:pop3@mailo.com)
 
     pop3@mailo.com
 
