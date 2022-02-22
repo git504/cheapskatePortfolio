@@ -40,7 +40,7 @@ The projects **pinned** in my repo are an important part of my learning process 
 
 - 🧘 **Yoga**
 - ⛰️ Hiking / Traveling / Europe
-- 📷 Foto
+- 📷 [Foto website](https://git504.github.io/fotoPortfolio/)
 - 🛵 **125cc** and driver's licence
 
 ---
