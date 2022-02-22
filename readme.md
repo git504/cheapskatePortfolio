@@ -1,7 +1,7 @@
 # cheapskatePortfolio
 
 ![ID](./Picture/FOTO003.png "Portrait, pixelArt")
-[Contact](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬
+[Contact the newbie](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬
 
 ### Hi there 👋
 
