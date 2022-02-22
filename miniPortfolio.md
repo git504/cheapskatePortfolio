@@ -33,14 +33,14 @@ The projects **pinned** in my repo are an important part of my learning process 
 
 ## Career path
 
-- Analogue **photographer** & **printMaker**
+- **photographer** & **printMaker**
+@ 📷 [underdogFoto](https://git504.github.io/underdogFoto/)
 - now in professional transition **_...Ongoing Digitalization_**
 
 ## Hobbies
 
 - 🧘 **Yoga**
 - ⛰️ Hiking / Traveling / Europe
-- 📷 [Foto website](https://git504.github.io/underdogFoto/)
 - 🛵 **125cc** and driver's licence
 
 ---
