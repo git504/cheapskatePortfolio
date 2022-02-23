@@ -1,7 +1,12 @@
 # cheapskatePortfolio
+<!-- image sans lien de contact -->
+<!-- ![ID](./Picture/ContactTheNewbie.png "Portrait, pixelArt") -->
 
-![ID](./Picture/FOTO003.png "Portrait, pixelArt")
-[Contact the newbie](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬
+<!-- image avec lien de contact -->
+[![ID](./Picture/ContactTheNewbie.png "Portrait, pixelArt")](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md)
+
+<!-- lien de contact -->
+<!-- [Contact the newbie](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬 -->
 
 ### Hi there 👋
 
@@ -34,7 +39,7 @@ The projects **pinned** in my repo are an important part of my learning process 
 ## Career path
 
 - **photographer** & **printMaker**
-@ 📷 [underdogFoto](https://git504.github.io/underdogFoto/)
+  @ 📷 [underdogFoto](https://git504.github.io/underdogFoto/)
 - now in professional transition **_...Ongoing Digitalization_**
 
 ## Hobbies
@@ -49,4 +54,4 @@ The projects **pinned** in my repo are an important part of my learning process 
     made with love in full stack Markdown
     [pop3@mailo.com]
 
-![ID](./Picture/qrcode_git504.github.iominiFOTO.png "QR, portfolio")
+<!-- ![ID](./Picture/qrcode_git504.github.iominiFOTO.png "QR, portfolio") -->
