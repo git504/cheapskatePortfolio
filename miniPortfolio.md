@@ -3,12 +3,12 @@
 <!-- ![ID](./Picture/ContactTheNewbie.png "Portrait, pixelArt") -->
 
 <!-- image avec lien de contact -->
-[![ID](./Picture/ContactTheNewbie.png "Portrait, pixelArt")](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md)
+[![ID](./Picture/ContactTheNewbie.png "QR, the newbie")](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md)
 
 <!-- lien de contact -->
 <!-- [Contact the newbie](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬 -->
 
-### Hi there 👋
+### Hi there 💬
 
     38 Y/o french react front-end beginner ;
 
