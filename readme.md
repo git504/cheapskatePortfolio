@@ -1,6 +1,12 @@
 # cheapskatePortfolio
 
 ![ID](./Picture/FOTO003.png "Portrait, pixelArt")
+
+<!-- [pop3@mailo.com]
+qr code
+draw
+title -->
+
 [Contact the newbie](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬
 
 ### Hi there 👋
@@ -45,8 +51,8 @@ The projects **pinned** in my repo are an important part of my learning process 
 
 ---
 
-    Thank you for being my reader
+    🙏 Thankie for being my reader
     made with love in full stack Markdown
-    [pop3@mailo.com]
 
-![ID](./Picture/qrcode_git504.github.iominiFOTO.png "QR, portfolio")
+
+<!-- ![ID](./Picture/qrcode_git504.github.iominiFOTO.png "QR, portfolio") -->
