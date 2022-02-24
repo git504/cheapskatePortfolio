@@ -1,13 +1,10 @@
 # cheapskatePortfolio
 
-![ID](./Picture/FOTO003.png "Portrait, pixelArt")
+<!-- ![ID](./Picture/FOTO003.png "Portrait, pixelArt") -->
 
-<!-- [pop3@mailo.com]
-qr code
-draw
-title -->
+![ID](./Picture/heroWebSun-1.png "Skills, Front-end REACT")
 
-[Contact the newbie](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬
+[Contact the newbie](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) [pop3@mailo.com] 💬
 
 ### Hi there 👋
 
