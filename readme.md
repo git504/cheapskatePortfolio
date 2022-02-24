@@ -4,7 +4,9 @@
 
 ![ID](./Picture/heroQRSun-1.png "Skills, Front-end REACT")
 
-[Contact the newbie](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) [ pop3@mailo.com ]  💬
+[Contact the newbie](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md)
+
+[ pop3@mailo.com ]  💬
 
 ### Hi there 👋
 
