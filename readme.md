@@ -2,9 +2,9 @@
 
 <!-- ![ID](./Picture/FOTO003.png "Portrait, pixelArt") -->
 
-![ID](./Picture/heroWebSun-1.png "Skills, Front-end REACT")
+![ID](./Picture/heroQRSun-1.png "Skills, Front-end REACT")
 
-[Contact the newbie](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) [pop3@mailo.com] 💬
+[Contact the newbie](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) [ pop3@mailo.com ]  💬
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ The projects **pinned** in my repo are an important part of my learning process 
 ## Certifications 🎓
 
 - [ ] **openclassrooms**: JavaScript React Developer 👨‍💻...**_in progess_**
-- [ ] **openclassrooms**: Web Developer 👨‍💻...**_in progess_**
+- [ ] **openclassrooms**: Web Developer PERN MERN👨‍💻...**_in progess_**
 - [x] [**freeCodeCamp** : ](https://www.freecodecamp.org/certification/git504/javascript-algorithms-and-data-structures) JavaScript Algorithms and Data Structures
 - [x] [**freeCodeCamp** : ](https://www.freecodecamp.org/certification/git504/responsive-web-design) Responsive Web Design
 - [x] [**Google Digital Garage** : ](https://github.com/git504/git504/blob/main/Developer%20Certification/Google%20garage%20Marketing.pdf) Fundamentals of Digital Marketing
