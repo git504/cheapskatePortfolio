@@ -39,7 +39,7 @@ The projects **pinned** in my repo are an important part of my learning process 
 ## Career path
 
 - **photographer** & **printMaker**
-@ 📷 [underdogFoto](https://git504.github.io/underdogFoto/)
+@ 📷 [underdogFoto](https://git504.github.io/underdogF/)
 - now in professional transition **_...Ongoing Digitalization_**
 
 ## Hobbies
