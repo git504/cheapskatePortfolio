@@ -10,7 +10,7 @@
 
 ### Hi there 👋
 
-    38 Y/o french react front-end beginner ;
+    38 Y/o french react front-end beginner, PERN-MERN ;
 
     100% committed to the OPENCLASSROOMS's learning process
     🌱 ...in career transition
@@ -30,8 +30,9 @@ The projects **pinned** in my repo are an important part of my learning process 
 
 ## Certifications 🎓
 
-- [ ] **openclassrooms**: JavaScript React Developer 👨‍💻...**_in progess_**
-- [ ] **openclassrooms**: Web Developer PERN MERN👨‍💻...**_in progess_**
+- [ ] [**openclassrooms**: ](https://www.francecompetences.fr/recherche/rncp/35976/) JavaScript React Developer 👨‍💻...**\_in progess_till november**
+- [x] [**openclassrooms**: ](https://www.francecompetences.fr/recherche/rncp/32173/) Développeur intégrateur web
+
 - [x] [**freeCodeCamp** : ](https://www.freecodecamp.org/certification/git504/javascript-algorithms-and-data-structures) JavaScript Algorithms and Data Structures
 - [x] [**freeCodeCamp** : ](https://www.freecodecamp.org/certification/git504/responsive-web-design) Responsive Web Design
 - [x] [**Google Digital Garage** : ](https://github.com/git504/git504/blob/main/Developer%20Certification/Google%20garage%20Marketing.pdf) Fundamentals of Digital Marketing

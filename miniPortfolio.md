@@ -1,8 +1,10 @@
 # cheapskatePortfolio
+
 <!-- image sans lien de contact -->
 <!-- ![ID](./Picture/ContactTheNewbie.png "Portrait, pixelArt") -->
 
 <!-- image avec lien de contact -->
+
 [![ID](./Picture/ContactTheNewbie.png "QR, the newbie")](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md)
 
 <!-- lien de contact -->
@@ -22,7 +24,7 @@
     PHILOSOPHY
     Always dedicate time to improving my skill set.
 
-I am applying for a first junior-mid level programming opportunity.
+I am applying for a first junior-mid level programming opportunity. PERN, MERN, FRONT
 
 Feeling at ease with the markdown and paper stacks\* _Ref. to my career path as a printMaker 📋_, gave me the interest to acquire a profund knowledge of JavaScript.
 
@@ -30,8 +32,9 @@ The projects **pinned** in my repo are an important part of my learning process 
 
 ## Certifications 🎓
 
-- [ ] **openclassrooms**: JavaScript React Developer 👨‍💻...**_in progess_**
-- [ ] **openclassrooms**: Web Developer 👨‍💻...**_in progess_**
+- [ ] [**openclassrooms**: ](https://www.francecompetences.fr/recherche/rncp/35976/) JavaScript React Developer 👨‍💻...**\_in progess_till november**
+- [x] [**openclassrooms**: ](https://www.francecompetences.fr/recherche/rncp/32173/) Développeur intégrateur web
+
 - [x] [**freeCodeCamp** : ](https://www.freecodecamp.org/certification/git504/javascript-algorithms-and-data-structures) JavaScript Algorithms and Data Structures
 - [x] [**freeCodeCamp** : ](https://www.freecodecamp.org/certification/git504/responsive-web-design) Responsive Web Design
 - [x] [**Google Digital Garage** : ](https://github.com/git504/git504/blob/main/Developer%20Certification/Google%20garage%20Marketing.pdf) Fundamentals of Digital Marketing
