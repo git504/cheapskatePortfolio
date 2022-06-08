@@ -33,7 +33,7 @@ The projects pinned in my [**Github repo 📑**](https://github.com/git504) are 
 
 ## Career path
 
-2020 | **frontend Student** | in Transition | Openclassrooms
+2020 | **frontend Student** | in career Transition | Openclassrooms
 
 2019 | **Printmaker** | Design | freelance
 
