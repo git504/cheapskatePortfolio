@@ -1,37 +1,28 @@
-# cheapskatePortfolio
 
-<!-- ![ID](./Picture/FOTO003.png "Portrait, pixelArt") -->
+# cheapskate_Portfolio
 
-![ID](./Picture/heroQRSun-1.png "Skills, Front-end REACT")
+## [Contact me](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬
+<!-- ![ID](./Picture/github2.png "Portrait, pixelArt") -->
 
-[Contact the newbie](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬
-
-[ pop3@mailo.com ]
-
-### Hi there 👋
-
-    39 Y/o french react front-end beginner, PERN-MERN ;
-
-    100% committed to the OPENCLASSROOMS's learning process
-    🌱 ...in career transition
-
-    🚚 Deliverable by December 2022
-    --> Lookin'for 1 contrat de professionnalisation
+<!-- ![ID](./Picture/heroQRSun-1.png "Skills, Front-end REACT") -->
 
 
-    PHILOSOPHY
-    Always dedicate time to improving my skill set.
+## Alternance front-end
 
-I am applying for a first junior-mid level programming opportunity.
+    👨 39 Y/o french junior level react front-end
 
-Feeling at ease with the markdown and paper stacks\* _Ref. to my career path as a printMaker 📋_, gave me the interest to acquire a profund knowledge of JavaScript.
+    🌱 100% committed to the OPENCLASSROOMS's
+    learning process till november 2022
 
-The projects **pinned** in my repo are an important part of my learning process and show my understanding of JavaScript.
+
+I am applying for a first junior level programming opportunity.
+
+The projects pinned in my [📑 **Github**](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md)  repo are an important part of my learning process and show my understanding of JavaScript.
 
 ## Certifications 🎓
 
-- [ ] [**openclassrooms**: ](https://www.francecompetences.fr/recherche/rncp/35976/) JavaScript React Developer 👨‍💻...**\_in progess_till november**
-- [x] [**openclassrooms**: ](https://www.francecompetences.fr/recherche/rncp/32173/) Développeur intégrateur web
+- ⏳ [**openclassrooms** : ](https://www.francecompetences.fr/recherche/rncp/35976/) JavaScript React Developer
+- [x] [**openclassrooms** : ](https://www.francecompetences.fr/recherche/rncp/32173/) Développeur web PERN MERN
 
 - [x] [**freeCodeCamp** : ](https://www.freecodecamp.org/certification/git504/javascript-algorithms-and-data-structures) JavaScript Algorithms and Data Structures
 - [x] [**freeCodeCamp** : ](https://www.freecodecamp.org/certification/git504/responsive-web-design) Responsive Web Design
@@ -39,20 +30,21 @@ The projects **pinned** in my repo are an important part of my learning process 
 
 ## Career path
 
-- **photographer** & **printMaker**
-@ 📷 [underdogFoto](https://git504.github.io/underdogF/)
-- now in professional transition **_...Ongoing Digitalization_**
+- Career Transition Frontend | **Student** | Openclassrooms
+- **printMaker** content creation
 
 ## Hobbies
 
 - 🧘 **Yoga**
-- ⛰️ Hiking / Traveling / Europe
-- 🛵 **125cc** and driver's licence
+- ⛰️ Hiking / Training
+- 🏕️ Traveling / Europe
 
 ---
 
-    🙏 Thankie for being my reader
-    made with love in full stack Markdown
+    🙏 Thankie
+    for being my reader
+    made with love
+    in full stack ***Markdown***
 
 
 <!-- ![ID](./Picture/qrcode_git504.github.iominiFOTO.png "QR, portfolio") -->
