@@ -5,9 +5,9 @@
 
 <!-- ![ID](./Picture/heroQRSun-1.png "Skills, Front-end REACT") -->
 
-## Applying for a work-study program
+## Applying for a front-end work-study program
 
-    je recherche une alternance
+Je recherche une alternance en tant que frontend, pour renforcer mes acquis REACT et connaître davantage le langage machine, server shell-bash coté formation.
 
     👨 39 junior level
     react front-end
@@ -19,7 +19,7 @@
 
 I am applying for a first junior level frontend opportunity.
 
-The projects pinned in my [**Github repo 📑**](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) are an important part of my learning process and show my understanding of JavaScript as a newbie.
+The projects pinned in my [**Github repo 📑**](https://github.com/git504) are an important part of my learning process and show my understanding of JavaScript as a newbie.
 
 ## Certifications 🎓
 
@@ -28,11 +28,11 @@ The projects pinned in my [**Github repo 📑**](https://github.com/git504/cheap
 
 - [x] [**freeCodeCamp** ](https://www.freecodecamp.org/certification/git504/javascript-algorithms-and-data-structures) JavaScript Algorithms and Data Structures
 - [x] [**freeCodeCamp** ](https://www.freecodecamp.org/certification/git504/responsive-web-design) Responsive Web Design
-- [x] [**Google Digital Garage** : ](https://github.com/git504/git504/blob/main/Developer%20Certification/Google%20garage%20Marketing.pdf) Fundamentals of Digital Marketing
+- [x] [**Google Digital Garage**](https://github.com/git504/git504/blob/main/Developer%20Certification/Google%20garage%20Marketing.pdf) Fundamentals of Digital Marketing
 
 ## Career path
 
-2020 | **Student** | Transition | Openclassrooms
+2020 | **frontend Student** | in Transition | Openclassrooms
 
 2019 | **Printmaker** | Design | freelance
 

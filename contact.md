@@ -4,7 +4,7 @@
     pop3@mailo.com
 
 
-### [return to resume](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md)...
+### [return to resume](https://git504.github.io/cheapskatePortfolio/)...
 
 ---
 
