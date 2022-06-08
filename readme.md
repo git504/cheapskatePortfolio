@@ -5,7 +5,9 @@
 
 <!-- ![ID](./Picture/heroQRSun-1.png "Skills, Front-end REACT") -->
 
-# Alternance frontend
+## Applying for a work-study program
+
+    je recherche une alternance
 
     👨 39 junior level
     react front-end
