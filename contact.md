@@ -1,12 +1,14 @@
 
-# [Contact me](pop3@mailo.com) 💬
+## [Contact me](pop3@mailo.com) 💬
 
     pop3@mailo.com
 
 
-# [return to resume](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md)...
+### [return to resume](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md)...
 
-####  **EMAIL 🔑 PGP PUBLIC KEY**
+---
+
+#####  **EMAIL 🔑 PGP PUBLIC KEY**
 
         -----BEGIN PGP PUBLIC KEY BLOCK-----
         Version: GnuPG v1.4.12 (GNU/Linux)
