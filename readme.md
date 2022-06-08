@@ -9,15 +9,16 @@
 
 Je recherche une alternance en tant que frontend, pour renforcer mes acquis REACT et connaître davantage le langage machine, server shell-bash coté formation.
 
-    👨 39 junior level
-    react front-end
+    👨 39, I am applying
+    for a first junior level
+    frontend opportunity.
 
     🌱 100% committed to
     the OPENCLASSROOMS's
     learning process
     till november 2022
 
-I am applying for a first junior level frontend opportunity.
+
 
 The projects pinned in my [**Github repo 📑**](https://github.com/git504) are an important part of my learning process and show my understanding of JavaScript as a newbie.
 
