@@ -24,8 +24,9 @@ The projects pinned in my [**Github repo 📑**](https://github.com/git504) are 
 
 ## Certifications 🎓
 
-- ⏳ [**openclassrooms** ](https://www.francecompetences.fr/recherche/rncp/35976/) JavaScript React frontend
-- [x] [**openclassrooms** ](https://www.francecompetences.fr/recherche/rncp/32173/) Dev web PERN MERN
+- ⏳ [**openclassrooms** ](https://www.francecompetences.fr/recherche/rncp/35976/) JavaScript **React frontend**
+- ⏳ [**freeCodeCamp** ](https://www.freecodecamp.org/git504) Front End Development **Libraries**
+- [x]  [**openclassrooms** ](https://www.francecompetences.fr/recherche/rncp/32173/) Dev web **PERN MERN**
 
 - [x] [**freeCodeCamp** ](https://www.freecodecamp.org/certification/git504/javascript-algorithms-and-data-structures) JavaScript Algorithms and Data Structures
 - [x] [**freeCodeCamp** ](https://www.freecodecamp.org/certification/git504/responsive-web-design) Responsive Web Design
