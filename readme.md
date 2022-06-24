@@ -7,7 +7,7 @@
 
 ## Applying for a front-end work-study program
 
-Je recherche une alternance en tant que frontend, pour renforcer mes acquis REACT et connaître davantage le langage machine, server shell-bash coté formation.
+Je cherche une belle opportunité Frontend React en contrat d'apprentissage de 12 mois.
 
     👨 39, I am applying
     for a first junior level
@@ -20,17 +20,19 @@ Je recherche une alternance en tant que frontend, pour renforcer mes acquis REAC
 
 
 
-The projects pinned in my [**Github repo 📑**](https://github.com/git504) are an important part of my learning process and show my understanding of JavaScript as a newbie.
+The projects 📌 pinned in my [**Github**](https://github.com/git504) are an important part of my learning process and show my understanding of JS stack.
 
 ## Certifications 🎓
 
-- ⏳ [**openclassrooms** ](https://www.francecompetences.fr/recherche/rncp/35976/) JavaScript **React frontend**
-- ⏳ [**freeCodeCamp** ](https://www.freecodecamp.org/git504) Front End Development **Libraries**
-- [x]  [**openclassrooms** ](https://www.francecompetences.fr/recherche/rncp/32173/) Dev web **PERN MERN**
+⏳ [**openclassrooms** ](https://www.francecompetences.fr/recherche/rncp/35976/) JavaScript **React frontend**
 
-- [x] [**freeCodeCamp** ](https://www.freecodecamp.org/certification/git504/javascript-algorithms-and-data-structures) JavaScript Algorithms and Data Structures
-- [x] [**freeCodeCamp** ](https://www.freecodecamp.org/certification/git504/responsive-web-design) Responsive Web Design
-- [x] [**Google Digital Garage**](https://github.com/git504/git504/blob/main/Developer%20Certification/Google%20garage%20Marketing.pdf) Fundamentals of Digital Marketing
+⏳ [**freeCodeCamp** ](https://www.freecodecamp.org/git504) Front End Development **Libraries**
+
+☑ [**openclassrooms** ](https://www.francecompetences.fr/recherche/rncp/32173/) Dev web **PERN MERN**
+
+☑ [**freeCodeCamp** ](https://www.freecodecamp.org/certification/git504/javascript-algorithms-and-data-structures) JavaScript Algorithms and Data Structures☑ [**freeCodeCamp** ](https://www.freecodecamp.org/certification/git504/responsive-web-design) Responsive Web Design
+
+☑ [**Google Digital Garage**](https://github.com/git504/git504/blob/main/Developer%20Certification/Google%20garage%20Marketing.pdf) Fundamentals of Digital Marketing
 
 ## Career path
 
@@ -45,7 +47,7 @@ The projects pinned in my [**Github repo 📑**](https://github.com/git504) are 
 - 🏕️ Traveling / Europe
 
 
-## [Contact me](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬
+## [Contact me using this link](https://github.com/git504/cheapskatePortfolio/blob/main/contact.md) 💬
 
 ---
 
